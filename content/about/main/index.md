@@ -21,7 +21,7 @@ intro: |
   Till now my students have given me okay feedback. Hence, so far so good. 
 show_outro: true
 outro: |
-  <i class="fas fa-coffee pr2"></i> [Support me]()
+   <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Imwla3MlG8bu8V" async> </script> </form>
 ---
 
 ** index doesn't contain a body, just front matter above.

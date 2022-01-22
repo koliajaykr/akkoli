@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  Prof of Research Methodology & Data Science
+  An aspiring data scientist and research methodology professor.
 show_header: true
 sidebar_left: true
 title: About me
