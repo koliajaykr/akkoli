@@ -14,7 +14,7 @@ intro: |
 
   Most of my research work is from the perspective of sustainable consumption. My recent research interests include an interaction between sustainability and waste.
  
-  I like to teach research methodology and data science using [R](https://www.r-project.org/). I focus more on understanding and interpretation of the concept than memorising it. My goal is to make learning research methods and data science less painful.  
+  I like to teach research methodology and data science using R. Kindly check the website of my course [R for Beeginners](https://r4b.netlify.app/). I focus more on understanding and interpretation of the concept than memorising it. My goal is to make learning research methods and data science less painful.  
 show_outro: true
 outro: |
    <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Imwla3MlG8bu8V" async> </script> </form>
