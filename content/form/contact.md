@@ -1,5 +1,5 @@
 ---
-title: Hi there
+title: Thank you!
 name: Contact Us Form
 description: This form is for contacting me about workshop engagements, opportunities to work together, or teaching requests. This is NOT a form for requesting help.
 date: "2019-02-25T13:38:41-06:00"

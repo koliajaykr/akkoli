@@ -6,7 +6,7 @@ categories:
 - workshop
 - RStats
 date: "2022-01-24T16:00:00Z"
-date_end: "2021-01-29T18:00:00Z"
+date_end: "2022-01-29T18:00:00Z"
 draft: false
 location: Online meetup
 show_post_time: false

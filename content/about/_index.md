@@ -5,7 +5,7 @@ description: |
   An aspiring data scientist and research methodology professor.
 show_header: true
 sidebar_left: true
-title: About me
+title: Hi there! Welcome.
 ---
 
 ** index doesn't contain a body, just front matter above.
