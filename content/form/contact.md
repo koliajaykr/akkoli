@@ -1,16 +1,16 @@
 ---
-date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need to do is add a valid recipient form-id to the front matter of this form page and you're ready to receive submissions.
-draft: false
-formspree_form_id: id-from-formspree
-layout: split-right
+title: Hi there
 name: Contact Us Form
-show_poweredby_formspree: true
-show_social_links: true
-submit_button_label: Send Message
-title: Contact
-type: form
+description: This form is for contacting me about workshop engagements, opportunities to work together, or teaching requests. This is NOT a form for requesting help.
+date: "2019-02-25T13:38:41-06:00"
+draft: false
 url: contact
+type: form
+layout: split-right
+submit_button_label: Send Message
+show_social_links: true
+show_poweredby_formspree: true
+formspree_form_id: "xlezgzbw"
 ---
 
 ** Contact page don't contain a body, just the front matter above.
