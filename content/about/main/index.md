@@ -3,7 +3,7 @@
 title: "Background" # 
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 5 # set to zero to exclude
+number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
   I was born on 24 January 1983 in a *Dalit* family of the Mewat region in Haryana, India. I grew up my with three sisters, mom and dad. My childhood was not that bad.
