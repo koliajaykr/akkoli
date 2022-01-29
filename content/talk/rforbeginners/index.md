@@ -19,6 +19,22 @@ layout: single
 
 It will be starting from 24 Jan 2022. The slides and videos will be updated after completing this course. 
 
-Session 1
+### Session 1: The Basics of R & RStudio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K9WeFAEPo6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Session 2: Dynamic Documents using R Markdown
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Ro9K2mV5Co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Session 3: Data Visualisation using ggplot2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jp_Ep1RiAtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Session 4: Data Wrangling using dplyr
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QGj8hEcDW0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Session 5: Slide Crafting using xaringan
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmoZnf_3mIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
