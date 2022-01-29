@@ -19,3 +19,6 @@ layout: single
 
 It will be starting from 24 Jan 2022. The slides and videos will be updated after completing this course. 
 
+Session 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K9WeFAEPo6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
