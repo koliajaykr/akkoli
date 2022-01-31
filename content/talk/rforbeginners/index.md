@@ -15,9 +15,21 @@ event_url: https://www.linkedin.com/feed/update/urn:li:activity:6890223709387636
 excerpt: It is a short term training programme of ten hours. It includes the basics of R and RStudio; dynamic documents using r markdown, data visualisation using ggplot2, data wrangling using dplyr and slide crafting using xaringan.
 featured: true
 layout: single
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: https://r4b-vu.netlify.app/
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/koliajaykr/r-training-vupune
 ---
 
-It will be starting from 24 Jan 2022. The slides and videos will be updated after completing this course. 
+*Thank you #RStats community for showering your love on my slides.*
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">😀 I&#39;m very happy to share <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> slides (~240) from my course &quot;R For Beginners&quot;. <br><br>It includes five modules - basics of R, Rmd docs, viz, dplyr, &amp; xaringan. The beautiful CSS slide style is adapted from the work of <a href="https://twitter.com/apreshill?ref_src=twsrc%5Etfw">@apreshill</a>. Please give ur feedback<br><br>🔗 <a href="https://t.co/oPXfmhsY6N">https://t.co/oPXfmhsY6N</a></p>&mdash; Dr Ajay Koli (@ajay_kolii) <a href="https://twitter.com/ajay_kolii/status/1487869313411579904?ref_src=twsrc%5Etfw">January 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 ### Session 1: The Basics of R & RStudio
 
