@@ -10,11 +10,11 @@ link_list:
 - name: RStats
   url: https://r4b.netlify.app/
 - name: Sustainable Consumption
-#  url: https://en.wikipedia.org/wiki/Pastry
-- name: Waste
-#  url: https://en.wikipedia.org/wiki/Paris
-- name: Craft
-#  url: https://en.wikipedia.org/wiki/People
+  url: https://www.un.org/sustainabledevelopment/sustainable-consumption-production/
+- name: Discard Studies
+  url: https://discardstudies.com/
+- name: Dalit Literature
+  url: https://caravanmagazine.in/books/twelve-books-dalit-writing
 ---
 
 ** index doesn't contain a body, just front matter above.
