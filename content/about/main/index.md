@@ -17,7 +17,10 @@ intro: |
   I like to teach research methodology and data science using R. Kindly check the website of my course [R for Beeginners](https://r4b.netlify.app/). I focus more on understanding and interpretation of the concept than memorising it. My goal is to make learning research methods and data science less painful.  
 show_outro: true
 outro: |
+   <div data-iframe-width="350" data-iframe-height="270" data-share-badge-id="5eead2bc-a31d-478f-a5eb-120d2ee6c114" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+   
    <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Imwla3MlG8bu8V" async> </script> </form>
+   
    <i class="fas fa-dharmachakra pr2"></i>Thank you for visiting!
 ---
 
