@@ -7,6 +7,6 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I am an Assistant Professor at the [Vishwakarma University](https://www.vupune.ac.in/). 
+I am an educator at the [Nalanda Academy](https://nalanda-academy.org/). 
 
 I like to teach research methodology and data science using [R](https://www.r-project.org/). My research work is about sustainable consumption and waste.

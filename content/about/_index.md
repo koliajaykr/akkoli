@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  An aspiring data scientist and research methodology professor.
+  An aspiring data scientist and research methodology educator.
 show_header: true
 sidebar_left: true
 title: Hi there! Welcome.
