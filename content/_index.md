@@ -8,9 +8,9 @@ images:
 - img/ajayk.jpg
 show_action_link: true
 show_social_links: true
-subtitle: PhD, Assistant Professor, Researcher & Data Science Enthusiast
+subtitle: PhD, Data Science Educator & Researcher
 text_align_left: true
-title: Ajay Kumar Koli
+title: Ajay Koli
 type: home
 ---
 
