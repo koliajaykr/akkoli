@@ -2,15 +2,15 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am an educator of research methodology and data science using [R](https://www.r-project.org/). My research interests include interaction between sustainability and waste. My goal is to make learning research methods and data science less painful.
+description: I’m Head of the School of Information and Data Science at the [Nalanda Academy](https://nalanda-academy.org/) - Wardha, India. I teach data science using [R](https://www.r-project.org/) statistical language to underprivileged students in India without any tuition fee. My goal is to make learning and teaching data science and research methods less painful. I also research the issues of sustainable consumption and discard studies.
 image_left: false
 images:
 - img/ajayk.jpg
 show_action_link: true
 show_social_links: true
-subtitle: PhD, Data Science Educator & Researcher
+subtitle: First-Gen PhD, Data Science Educator & Researcher
 text_align_left: true
-title: Ajay Koli
+title: Ajay Kumar Koli
 type: home
 ---
 

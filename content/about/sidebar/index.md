@@ -9,7 +9,7 @@ link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: RStats
   url: https://r4b.netlify.app/
-- name: Data Visualisation
+- name: Research Methods
 ---
 
 ** index doesn't contain a body, just front matter above.

@@ -7,6 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I am an educator at the [Nalanda Academy](https://nalanda-academy.org/). 
+I teach data science using [R](https://www.r-project.org/) statistical language and RStudio. I strongly believe in the "Educate. Agitate. Organise" philosophy of [Dr. B. R. Ambedkar](http://www.columbia.edu/itc/mealac/pritchett/00ambedkar/index.html). 
 
-I like to teach research methodology and data science using [R](https://www.r-project.org/). My research work is about sustainable consumption and waste.

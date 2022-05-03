@@ -3,7 +3,7 @@ title: Basic Research Framework and Literature Review using Tools
 subtitle: Research Essentials
 author: Ajay Koli
 categories:
-- workshop
+- Research Methods
 date: "2021-11-13T15:00:00Z"
 date_end: "2021-11-13T16:30:00Z"
 draft: false

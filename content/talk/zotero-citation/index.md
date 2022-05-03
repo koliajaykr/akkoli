@@ -3,7 +3,7 @@ title: Effective Citation and Referencing for Avoiding Plagiarism
 subtitle: Research Essentials
 author: Ajay Koli
 categories:
-- workshop
+- Research Methods
 date: "2021-12-04T15:00:00Z"
 date_end: "2021-12-04T16:30:00Z"
 draft: false

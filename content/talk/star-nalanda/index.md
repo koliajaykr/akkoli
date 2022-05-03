@@ -3,7 +3,7 @@ title: Research Methodology
 subtitle: Steps Towards Academic Research
 author: Ajay Koli
 categories:
-- workshop
+- Research Methods
 date: "2021-12-15T18:30:00Z"
 date_end: "2022-01-07T20:30:00Z"
 draft: false

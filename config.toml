@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Ajay Koli"
   orgLocal = ""
-  description = "Aspiring data scientist"
+  description = "Data Science Educator"
   favicon = "/img/chakra.png"
   logo = "/img/chakra.png"
   mainSections = ["blog", "project", "talk"]

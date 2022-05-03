@@ -3,7 +3,6 @@ title: R For Beginners
 subtitle: An online training programme
 author: Ajay Koli
 categories:
-- workshop
 - RStats
 date: "2022-01-24T16:00:00Z"
 date_end: "2022-01-29T18:00:00Z"
