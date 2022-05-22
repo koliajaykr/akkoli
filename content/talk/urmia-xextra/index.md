@@ -19,10 +19,10 @@ links:
   icon_pack: fas
   name: slides
   url: https://xeurmia.netlify.app/
-# - icon: play-circle
-#   icon_pack: fas
-#   name: video
-#   url: https://youtu.be/Y8H6bcjyKP8
+- icon: play-circle
+  icon_pack: fas
+  name: video
+  url: https://youtu.be/hC7yWHveYjM
 - icon: github
   icon_pack: fab
   name: code
