@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Ajay Koli"
   orgLocal = ""
-  description = "Data Science Educator"
+  description = "Personal website and portfolio of Dr. Ajay Koli"
   favicon = "/img/chakra.png"
   logo = "/img/chakra.png"
   mainSections = ["blog", "project", "talk"]
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/ajaykoli.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "ajay_kolii"
   
@@ -120,16 +120,16 @@ enableEmoji = true
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
-#  [[menu.header]]
-#    name = "Blog"
-#    title = "Blog"
-#    url = "/blog/"
-#    weight = 2
-#  [[menu.header]]
-#    name = "Projects"
-#    title = "Project Portfolio"
-#    url = "/project/"
-#    weight = 3
+  [[menu.header]]
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.header]]
+    name = "Projects"
+    title = "Project Portfolio"
+    url = "/project/"
+    weight = 3
   [[menu.header]]
     name = "Talks"
     title = "Talks"

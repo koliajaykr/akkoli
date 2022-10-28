@@ -1,16 +1,16 @@
 ---
+title: Ajay Koli, PhD
+subtitle: Data Science Educator & Researcher @Nalanda Academy
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I’m Head of the School of Information and Data Science at the [Nalanda Academy](https://nalanda-academy.org/) - Wardha, India. I teach data science using [R](https://www.r-project.org/) statistical language to underprivileged students in India without any tuition fee. My goal is to make learning and teaching data science and research methods less painful. I also research the issues of sustainable consumption and discard studies.
-image_left: false
+description: I am a data science educator and Head of School of Data Science at the [Nalanda Academy](https://nalanda-academy.org/) - Wardha, India. I provide free data science education to under-represented students using [R](https://www.r-project.org/) & [RStudio](https://www.rstudio.com/). I am sincerely trying to make teaching and learning data science less painful. 🙂<br><br>I am accepting invitations to teach/talk about data science.
 images:
-- img/ajayk.jpg
+  - img/ajaykoli.png
+image_left: false
+text_align_left: true
 show_action_link: true
 show_social_links: true
-subtitle: First-Gen PhD, Data Science Educator & Researcher
-text_align_left: true
-title: Ajay Kumar Koli
 type: home
 ---
 

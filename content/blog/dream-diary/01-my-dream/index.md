@@ -1,0 +1,336 @@
+---
+title: "Salary or a dream"
+subtitle: ""
+excerpt: "It is my first post of my first blog. A few months back I left my job as an Assistant Professor and joined full-time Nalanda Academy as a data science educator. My dream is to establish a non-profit school of data science at Nalanda Academy. In this post, I will share with you why I teach data science, what are my challenges with data science students and courses, and how can you help me in building a school of data science for underrepresented students."
+date: "2022-09-10"
+#date-format: long
+format: hugo
+toc: false
+editor_options:
+  markdown:
+    wrap: 72
+draft: true
+---
+
+> *Thumbnail image from [Kenny
+> Eliason](https://unsplash.com/photos/-Cmz06-0btw)*
+
+My name is [Ajay Koli](https://koliajay.netlify.app/). I am Head of the
+School of Data Science at [Nalanda
+Academy](https://nalanda-academy.org/). A few months back, I left an
+Assistant Professor job and joined Nalanda Academy as a full-time R data
+science educator. In this blog post, I would like to share:
+
+-   what made me leave my career in the university system,
+-   why I want to teach free data science courses to underprivileged
+    students, and
+-   how can you help me in establishing a school of data science at the
+    Nalanda Academy.
+
+## About Nalanda Academy
+
+Nalanda Academy is a registered non-profit NGO (non-governmental
+organisation) in India. It has been teaching free to underprivileged
+students in India since 2013. It is founded by [Anoop
+Kumar](https://www.linkedin.com/in/anoop-kumar-87161846)
+(Founder-Director) and two co-founders. Every year, around two hundred
+students come to Nalanda Academy from non-English medium schools of
+different parts of rural India. During their nine to ten months stay at
+Nalanda, we teach them high school level English, Social Science, Maths,
+and Science. We also mentor them about higher education and future
+career opportunities.
+
+In last nine years, Nalanda has educated around one thousand
+underrepresented students to get admission in top Indian universities
+(like [JNU](https://www.jnu.ac.in/main/), [TISS](https://www.tiss.edu/),
+& [APU](https://azimpremjiuniversity.edu.in/)). And, our twenty-three
+students are pursuing higher education in Canada, USA, and Australia.
+Our community members and alumni give donations to meet Nalanda's
+day-to-day expenses and staff salary. Local Wardha community supports
+our cause and gave us [*Samyak Buddha
+Vihar*](https://goo.gl/maps/63ytjE5MZtbR1X578) to conduct our classes
+and house a library.
+
+<figure>
+<img src="image/vihar.jpg" data-fig-align="center" alt="Nalanda Academy at Samyak Buddha Vihar in Wardha" />
+<figcaption aria-hidden="true">Nalanda Academy at Samyak Buddha Vihar in
+Wardha</figcaption>
+</figure>
+
+In August 2021, I came to know about Nalanda Academy through Twitter. I
+contacted Mr. Anoop and expressed my interest to teach an on-line
+research methodology course to Nalanda students. You can find the course
+videos on the [YouTube
+channel](https://www.youtube.com/watch?v=Bnr_mtFSPkw) of [Digital
+Nalanda](https://www.digitalnalanda.com/). Digital Nalanda is an on-line
+education platform of Nalanda Academy. My course went well and I
+discussed further with Mr. Anoop to teach an on-line data science course
+using R statistical language.
+
+At my previous work-place, in January 2022, I conducted an on-line data
+science workshop "R for Beginners" ([YouTube video
+link](https://youtu.be/6Ro9K2mV5Co)). After finishing my workshop, as
+usual, I shared my slides on Twitter. I am very happy to share that data
+science community received my slides quite well.
+
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+😀 I\'m very happy to share <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> slides (\~240) from my course \"R For Beginners\". <br><br>It includes five modules - basics of R, Rmd docs, viz, dplyr, & xaringan. The beautiful CSS slide style is adapted from the work of <a href="https://twitter.com/apreshill?ref_src=twsrc%5Etfw">@apreshill</a>. Please give ur feedback<br><br>🔗 <a href="https://t.co/oPXfmhsY6N">https://t.co/oPXfmhsY6N</a>
+</p>
+--- Ajay Koli, PhD (@ajay_kolii) <a href="https://twitter.com/ajay_kolii/status/1487869313411579904?ref_src=twsrc%5Etfw">January 30, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+My recent interaction with Nalanda Academy team and appreciation
+received from the on-line data science community, both gave me
+confidence to join Nalanda Academy as a full-time R data science
+educator and pursue my dream to establish a School of Data Science for
+underprivileged students at the Nalanda Academy.
+
+Generally, in India, quality education is not accessible to the people
+who are at the bottom of the pyramid. And, data science education is no
+exception. A large number of students in India cannot afford the hefty
+fees for data science education. Nalanda Academy is offering free data
+science
+[courses](https://docs.google.com/document/d/1oLbCmmtRVnvcv_XCeVkYqhwEK5nv-hUG9lwpQeVFCTU/edit?usp=sharing).
+I believe that engaging with multiple views from different parts of
+Indian society will enrich data science perspective and make it
+inclusive.
+
+## My jouRney
+
+I started using R during my PhD. I conducted quantitative analysis using
+`plspm` package and qualitative analysis using `RQDA` package and wrote
+my [whole
+thesis](https://shodhganga.inflibnet.ac.in/handle/10603/314484) in R
+using the `bookdown` package. Thanks to Prof. Andy Field's
+[book](https://www.amazon.in/Discovering-Statistics-Using-Andy-Field/dp/1446200469)
+for introducing me to the R software. I am extremely thankful to the
+awesome #RStats community for its undying kindness, help and support.
+
+In 2019, I joined as an Assistant Professor of Marketing Research at
+[PIBM](https://pibm.in/) and in 2020 I conducted a 24 hours R workshop.
+
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+Thank you dear participants 🙂. Especial thanks to Pravin sir & Riddhiman sir for believing me. <a href="https://twitter.com/PunePIBM?ref_src=twsrc%5Etfw">@PunePIBM</a> successfully knitted 🧶 <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> Workshop\'20. <a href="https://t.co/ipHqlBy7J1">pic.twitter.com/ipHqlBy7J1</a>
+</p>
+--- Ajay Koli, PhD (@ajay_kolii) <a href="https://twitter.com/ajay_kolii/status/1222778707988758533?ref_src=twsrc%5Etfw">January 30, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+In January 2022, I conducted ten hours international R workshop at
+[Vishwakarma University](https://www.vupune.ac.in/) for eighteen
+participants (see videos on
+[YouTube](https://www.youtube.com/watch?v=K9WeFAEPo6I&list=PLUS63745Y6sQ6naEcG2CTJVTBtPi8uPRa)).
+
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+🕺Today, I finished teaching a ten hrs of <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> course. Thank you, dear participants. You were awesome. I'm sharing the video recording of the sessions.<br><br>Thanks, <a href="https://twitter.com/xieyihui?ref_src=twsrc%5Etfw">@xieyihui</a>, <a href="https://twitter.com/apreshill?ref_src=twsrc%5Etfw">@apreshill</a>, <a href="https://twitter.com/grrrck?ref_src=twsrc%5Etfw">@grrrck</a> & <a href="https://twitter.com/allison_horst?ref_src=twsrc%5Etfw">@allison_horst</a> and several other fantastic <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> people. <a href="https://t.co/aGfz96f3ko">pic.twitter.com/aGfz96f3ko</a>
+</p>
+--- Ajay Koli, PhD (@ajay_kolii) <a href="https://twitter.com/ajay_kolii/status/1487446251172151296?ref_src=twsrc%5Etfw">January 29, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Gradually, I also developed a dedicated website -
+[R4Bee](https://r4b.netlify.app/) (GitHub
+[link](https://github.com/koliajaykr/course-r4bee)) for my course "R for
+Beginners". Before joining Nalanda, I had taught seventy four students
+in eight on-line batches. The course included five modules:
+
+1.  Basics of R & RStudio,  
+2.  Dynamic documents using `R Markdown`,  
+3.  Data visualisation using `ggplot2`,  
+4.  Data wrangling using `dplyr` and  
+5.  Slide-crafting using `xaringan`.
+
+While I was seeing a lot of enthusiasm about R in the western
+universities. However, my previous organisations took at least a year to
+allow me to conduct R workshop. They had reasons like:
+
+-   why social science students need to learn data science,
+-   we are already teaching Python so, why R,
+-   someone from computer science department should teach this,
+-   you just joined wait for some time
+
+Whatever. I was frustrated with those replies and felt frustrated being
+not able to teach R. I felt that my R knowledge and skills were not
+timely recognised and delayed due to my social background. I might be
+wrong here but I could not find any other reason because world's
+renowned universities were adopting R in its courses but my organisation
+was delaying it.
+
+Among all these frustrations, I started applying for post doc in foreign
+countries to hone my data science skills. During this transition period,
+I asked Mr. Anoop if he can allow me to teach data science using R
+full-time at Nalanda Academy and help Nalanda to establish its own
+school of data science. He happily agreed to my proposal and I joined
+Nalanda Academy.
+
+## Nalanda's School of Data Science
+
+At Nalanda, we are at the very initial stage of building a School of
+Data Science. We want to keep all our data science courses absolutely
+free and open for all. Admission preference will be given to students
+from the underprivileged and under-represented sections of Indian
+society.
+
+In 2021, Nalanda Academy conducted its [first on-line data science
+course](https://www.youtube.com/playlist?list=PLeIUGw6QK3o-t1521cEtbvS-N0TJ-Bj97)
+at Digital Nalanda with brilliant educators [Prof. Subodh
+Patil](https://www.universiteitleiden.nl/en/science/physics/cosmological-matter/patil-group),
+[Mohamed Rameez](https://www.tifr.res.in/~dhep/Faculty.php) and [Disha
+Patil](https://in.linkedin.com/in/dishapatil). In April 2022, I joined
+Nalanda Academy full-time and launched first-time offline data science
+courses. In last five months, I taught three courses:
+
+-   R for Beginners, 18 hours ([GitHub
+    link](https://github.com/koliajaykr/r-training-vupune)).
+
+-   Basics of Statistics, 32 hours ([GitHub
+    link](https://github.com/koliajaykr/rstats)).
+
+-   Research Methodology - 30 hours ([GitHub
+    link](https://github.com/koliajaykr/research-methods)).
+
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+30 HOURS RESEARCH METHODOLOGY WORKSHOP IS SUCCESSFULLY COMPLETED AT <a href="https://twitter.com/Nalanda_Wardha?ref_src=twsrc%5Etfw">@Nalanda_Wardha</a> <a href="https://twitter.com/digital_nalanda?ref_src=twsrc%5Etfw">@digital_nalanda</a> <br><br>"I measure the progress of a community with the degree of progress women have achieved." - Babasaheb Ambedkar <a href="https://t.co/EJyyRbP9uK">https://t.co/EJyyRbP9uK</a> <a href="https://t.co/sdOIIQmsXx">pic.twitter.com/sdOIIQmsXx</a>
+</p>
+--- Ajay Koli, PhD (@ajay_kolii) <a href="https://twitter.com/ajay_kolii/status/1530315332480405504?ref_src=twsrc%5Etfw">May 27, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Two of my colleagues taught on-line courses:
+
+-   Introduction to Python by Nelson Wasekar - 12 hours
+    ([YouTube](https://youtu.be/s10kMsgk89s)).
+
+-   GitHub Essentials by Disha Patil - 4 hours
+    ([YouTube](https://youtu.be/Ln_aYTgoBzE)).
+
+In May 2022, Nalanda Academy organised [2nd Krantijyoti Savitrimai
+Education
+Fair](https://nalanda-academy.org/portfolio/2nd-krantijyoti-savitrimai-education-fair/).
+Nelson Wasekar and I exhibited a stall for data science with the help of
+students. We interacted and received a lot of data science related
+queries from students as well parents.
+
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+a lot of data science queries <a href="https://twitter.com/Nalanda_Wardha?ref_src=twsrc%5Etfw">@Nalanda_Wardha</a> <a href="https://t.co/fldD7hfuXz">pic.twitter.com/fldD7hfuXz</a>
+</p>
+--- Ajay Koli, PhD (@ajay_kolii) <a href="https://twitter.com/ajay_kolii/status/1530846493044637696?ref_src=twsrc%5Etfw">May 29, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+As I mentioned earlier, we are at the very initial stage of planning our
+school of data science at Nalanda. You can find information about our
+data science educators and courses in this [Google Document
+link](https://docs.google.com/document/d/1oLbCmmtRVnvcv_XCeVkYqhwEK5nv-hUG9lwpQeVFCTU/edit?usp=sharing).
+
+### Data Science Educators
+
+Nalanda has a diverse team of data science educators. Our educators
+volunteer to teach data science as per their schedule without disturbing
+their main job outside of Nalanda. They are completely free to design
+and plan their course. It is my pleasure to share my team:
+
+-   [Disha Patil](https://www.linkedin.com/in/dishapatil/)
+
+-   [Mayuri Gaikwad](https://www.linkedin.com/in/gmayuriiii/)
+
+-   [Nelson
+    Wasekar](https://www.linkedin.com/in/nelson-jyostna-wasekar-223429103/)
+
+-   [Poorvesh Dongre](https://www.linkedin.com/in/poorveshdongre)
+
+-   [Subodh Patil](http://patil.web.cern.ch/)
+
+-   [Vimeet
+    Gautam](https://www.linkedin.com/in/vimeet-gautam-4796aa105/)
+
+### Data Science Courses
+
+We divided our courses as "Essential Courses", "Advance Courses", and
+"Specialization Courses". Essential courses are to familiarize/introduce
+students with the basic syntax and teach students to kick-start their
+data science journey. "Advance courses" will be suitable for the
+students who are already somewhat familiar with the data science tools
+and framework. And, they are interested to improve their skills further.
+Some students have special interest in one particular application/field
+of data science. We will have "Specialization courses" for these
+students.
+
+Right now, our list of courses looks like the below table. The name of
+the courses in *italics* are offered at least once. Our courses are
+still work-in-progress and will be updated as and when required.
+
+| Essential Courses                                      | Advance Courses                               | Specialization Course             |
+|----------------------------|-------------------------|-------------------|
+| *R for Beginners*                                      | Data Visualization using R                    | Qualitative text analysis using R |
+| *Dynamic Documents & Slides using R Markdown / Quarto* | Data wrangling using R                        | Sentiment analysis                |
+| *How to use GitHub?*                                   | Shiny for R                                   | Biostatistics using R             |
+| *Python for Beginners*                                 | Shiny for Python                              | GIS and spatial analysis using R  |
+| *Statistics using R - I*                               | Statistics using R - II                       | Time series analysis              |
+| Data science ethics                                    | Bayesian Statistics                           | Market research using R           |
+| Introductory SQL PL/SQL                                | Statistical Modelling                         |                                   |
+| *Basics of Research Methods*                           | Machine learning                              |                                   |
+| Data Structure                                         |                                               |                                   |
+| *JAVA core basics*                                     | Data structures and Algorithms through C/JAVA | Problem solving                   |
+| C core basics                                          |                                               |                                   |
+
+## Your help is required
+
+**Five months R course:** We will be offering a five month data science
+course using R language from 15 January 2023 to 15 June 2023. We seek a
+grant of 1000 USD for this course. It will be covering the following
+topics: Basics of R & RStudio, data wrangling using dplyr, data
+visualization using ggplot2, dynamic documents using R Markdown &
+Quarto, research methods and statistics using R.
+
+-   A Google Form ( or meetup.com or eventbrite.com) will be used for
+    the registration.
+
+-   The course will be free including the study material.
+
+-   Complete study material will be open-access and free.
+
+### Computer lab
+
+**Computers for R Training:** My students come from a very humble
+economic background. Most of them cannot afford a laptop. In my last
+batch of students hardly 2-3 students out of 50 got their own laptops.
+Still, they did not quit and attended all sessions. Nalanda Academy
+requires at least thirty computers to establish a data science
+laboratory for practice. In India, an average computer will cost around
+50,000 INR (630 USD). Gradually, we need a funding of around 30,000 USD
+to set-up a laboratory with thirty computers.
+
+### Paid projects
+
+**Paid Internship**: In near future, we would like to offer paid
+internship to the students. Working on paid-projects will build their
+confidence without worrying much about their survival.
+
+### Nalanda Abhiyan Campus
+
+**Nalanda Abhiyan Campus:** Our team is working very hard to raise funds
+to construct our own nine acre campus (400,000 Square foot) for three
+hundred students (150 girls and 150 boys). This is a [Google
+Map](https://maps.app.goo.gl/qskQnVgzduMjTTqg9) location of the proposed
+campus. Most probably the first phase of our campus construction will
+start from mid of October 2022.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CgDfl_EKv8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+On 27 September 2022, Nalanda Academy entered into its tenth year. In
+last nine years, we taught thousands of social science students free of
+cost and helped them to excel in life. We are dedicated to build a
+teaching and learning environment which believes in free education for
+all genders and for all sections of Indian society with emphasis on
+education for women and underprivileged students. Now, we also want to
+teach free best of the best data science education to the
+underprivileged sections of Indian society. I believe that together R
+Consortium and Nalanda Academy can make this dream possible.
