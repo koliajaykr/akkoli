@@ -1,7 +1,7 @@
 ---
-title: Nalanda Diaries
+title: Sara Stories
 description: |
-  Read here how I'm building a non-profit school of data science at the [Nalanda Academy](https://nalanda-academy.org/).
+  Read here how I'm building Sara Institute of Data Science.
 author: Ajay Koli
 show_post_thumbnail: false
 show_author_byline: true

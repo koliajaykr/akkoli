@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RStats on Ajay Koli</title>
+    <link>/categories/rstats/</link>
+    <description>Recent content in RStats on Ajay Koli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Apr 2022 15:00:00 +0000</lastBuildDate><atom:link href="/categories/rstats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extraordinary Slides using xaringanExtra</title>
+      <link>/talk/urmia-xextra/</link>
+      <pubDate>Sat, 30 Apr 2022 15:00:00 +0000</pubDate>
+      
+      <guid>/talk/urmia-xextra/</guid>
+      <description>It was my first international RStats talk as a resource person. Thank you so much to the awesome R-Ladies Urmia team, especially to Nasrin, Yalda and Maryam (the event moderator).</description>
+    </item>
+    
+    <item>
+      <title>R For Beginners</title>
+      <link>/talk/rforbeginners/</link>
+      <pubDate>Mon, 24 Jan 2022 16:00:00 +0000</pubDate>
+      
+      <guid>/talk/rforbeginners/</guid>
+      <description>Thank you #RStats community for showering your love on my slides.
+😀 I&amp;#39;m very happy to share #RStats slides (~240) from my course &amp;quot;R For Beginners&amp;quot;. It includes five modules - basics of R, Rmd docs, viz, dplyr, &amp;amp; xaringan. The beautiful CSS slide style is adapted from the work of @apreshill. Please give ur feedback
+🔗 https://t.co/oPXfmhsY6N
+&amp;mdash; Dr Ajay Koli (@ajay_kolii) January 30, 2022  Session 1: The Basics of R &amp;amp; RStudio      Session 2: Dynamic Documents using R Markdown      Session 3: Data Visualisation using ggplot2      Session 4: Data Wrangling using dplyr      Session 5: Slide Crafting using xaringan     </description>
+    </item>
+    
+  </channel>
+</rss>
