@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Ajay Koli"
   orgLocal = ""
-  description = "Personal website and portfolio of Dr. Ajay Koli"
+  description = "Personal Website & Portfolio of Dr. Ajay Koli"
   favicon = "/img/chakra.png"
   logo = "/img/chakra.png"
   mainSections = ["blog", "project", "talk"]
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/ajaykoli.jpg"
+  sharing_image = "/img/ajay.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "ajay_kolii"
   

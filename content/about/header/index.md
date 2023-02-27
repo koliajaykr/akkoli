@@ -8,4 +8,4 @@ headline: |
 
 <!-- this is a subheadline -->
 
-> *Cultivation of mind should be the ultimate aim of human existence.* [-- Dr. B. R. Ambedkar](http://www.columbia.edu/itc/mealac/pritchett/00ambedkar/index.html)
+> *Cultivation of mind should be the ultimate aim of human existence.* [-- Babasaheb Dr. B. R. Ambedkar](http://www.columbia.edu/itc/mealac/pritchett/00ambedkar/index.html)
